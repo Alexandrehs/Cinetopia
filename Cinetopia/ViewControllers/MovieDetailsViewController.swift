@@ -1,13 +1,13 @@
 //
-//  MoviesViewController.swift
+//  MovieDetailsViewController.swift
 //  Cinetopia
 //
-//  Created by Alexandre Henrique da Silva on 26/10/24.
+//  Created by Alexandre Henrique da Silva on 27/10/24.
 //
 
 import UIKit
 
-class MoviesViewController: UIViewController {
+class MovieDetailsViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
